@@ -1,0 +1,1 @@
+**Bienvenidos a la documentación oficial del ScapeRoom "La casa de los secretos".**
