@@ -1,6 +1,6 @@
-# La casa de los secretos
+# La casa de los secretos - Scape Room
 
-La casa de los secretos es un videojuego interactivo tipo *Scape Room* creado en **JavaScript** con la librería **three.js**, que es una potente librería de código abierto para JavaScript que se utiliza para crear y mostrar gráficos 3D y animaciones en un navegador web.
+La casa de los secretos es un videojuego interactivo tipo **"Scape Room"** creado en **JavaScript** con la librería **three.js**, que es una potente librería de código abierto para JavaScript que se utiliza para crear y mostrar gráficos 3D y animaciones en un navegador web.
 
 **Autores**:
 * [Denis Stoyanov](https://github.com/denissvalentin)
@@ -12,7 +12,7 @@ La casa de los secretos es un videojuego interactivo tipo *Scape Room* creado en
 
 ## 📜 Descripción
 
-"La casa de los secretos" es un *Scape Room* que se desarrolla en una única habitación llena de misterios. El objetivo principal es **resolver 3 pistas** que se encuentran interconectadas para poder abrir la puerta y escapar antes de que sea demasiado tarde. A lo largo de la partida, recibirás mensajes en la esquina superior derecha que te guiarán y te darán información crucial sobre tu progreso.
+"La casa de los secretos" es un **"Scape Room"** que se desarrolla en una única habitación llena de misterios. El objetivo principal es **resolver 3 pistas** que se encuentran interconectadas para poder abrir la puerta y escapar antes de que sea demasiado tarde. A lo largo de la partida, recibirás mensajes en la esquina superior derecha que te guiarán y te darán información crucial sobre tu progreso.
 
 ---
 
