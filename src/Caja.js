@@ -1,6 +1,6 @@
 import * as THREE from '../libs/three.module.js'
 import { CSG } from '../libs/CSG-v2.js'
-import { Calavera } from './calavera.js';
+import { Calavera } from './Calavera.js';
 import * as TWEEN from '../libs/tween.esm.js'
 
 
@@ -9,7 +9,7 @@ class Caja extends THREE.Object3D {
     super();
 
     // TEXTURAS
-    var textura = new THREE.TextureLoader().load('../imgs/dorado.png');
+    var textura = new THREE.TextureLoader().load('/imgs/dorado.png');
     var matDorado = new THREE.MeshPhongMaterial ({map: textura});
 
 
