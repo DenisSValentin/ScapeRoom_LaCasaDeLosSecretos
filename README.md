@@ -44,7 +44,7 @@ Los mensajes en la esquina superior derecha te guiarán a través de tu aventura
 | **Motor de Colisiones** | Sistema de bounding boxes para evitar que el jugador atraviese paredes y objetos |
 | **Animaciones** | Apertura de cajas, pulsación de botones, movimiento de notas |
 | **Picking (Raycasting)** | Detección de objetos con clic del ratón |
-| **Iluminación** | 5 tipos de luces: ambiental, spotlights dinámicos, luz parpadeante |
+| **Iluminación** | 3 tipos de luces: ambiental, spotlights dinámicos, luz parpadeante |
 | **Sombras** | Proyección y recepción de sombras en tiempo real |
 | **Texturas** | Texturas con relieve, vídeos en pantalla, mapeado complejo |
 | **Modelado CSG** | Geometría Constructiva de Sólidos para estanterías y libros |
